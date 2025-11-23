@@ -10,8 +10,7 @@
 
 * **Semantic Dork Segmentation**: Utilization of NLP to break down long, complex *dorks* into their logical components ( operators, keywords, file names, domains, etc. ), allowing for granular analysis.
 * **Intelligent Vectorization**: Application of embedding models to convert the components and structure of the *dorks* into high-dimensional numerical vectors.
-* **Increased Efficiency in OSINT/Red Teaming**: The automatic grouping of *dorks* by similarity reduces redundancy and accelerates the process of identifying critical information.
-* **Trend Identification**: Allows analysts to discover *clusters* of new tactics or search targets that would otherwise be hidden in a lengthy list.
+* **Increased Efficiency in OSINT/Red Teaming**: The automatic segmentation of *dorks*reduces redundancy and accelerates the process of identifying critical information.
 
 ---
 
