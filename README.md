@@ -33,14 +33,11 @@ Informations about the Software:
 
 ---
 
-#### 🔒🛠️ Intellectual Property (IP) Protection ( License and Restrictions )
+#### 🔒🛠️ Intellectual Property (IP) Protection ( License, Restrictions, and Copyright )
 
 **Legal Notice and Terms of Use**
 
-This repository contains the source code and documentation for **DOSNLP**, which constitutes the **Intellectual Property (IP)** of João Rafael Gonçalves Evangelista.
-
-### **Copyright**
-
-© 2025 João Rafael Gonçalves Evangelista. All rights reserved.
+This repository contains the source code and documentation for **DOSNLP**, which constitutes the **Intellectual Property (IP)** of 
+João Rafael Gonçalves Evangelista. All rights reserved.
 
 ---
