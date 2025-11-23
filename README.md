@@ -1,4 +1,4 @@
-### 🕵️‍♀️ DOSNLP: Google Hacking Dorks Segmentation with Natural Language Processing (NLP)
+### 🕵️‍♀️ DOSNLP: Dorks Segmentation with Natural Language Processing
 
 > **DOSNLP** ( Dorks Segmentation with Natural Language Processing ) is an innovative tool that uses advanced **Natural Language Processing (NLP)** techniques to analyze, segment, and organize **Google Hacking Dorks** ( or search engine "Dorks" ).
 > The main goal is to transform the set of *dorks* – which are complex search queries used for **OSINT ( Open Source Intelligence )** and penetration testing ( Pentest ) – into a **structured semantic space**.
