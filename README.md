@@ -41,6 +41,6 @@ This repository contains the source code and documentation for **DOSNLP**, which
 
 ### **Copyright**
 
-© [2025] [João Rafael Gonçalves Evangelista]. All rights reserved.
+© 2025 João Rafael Gonçalves Evangelista. All rights reserved.
 
 ---
