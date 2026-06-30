@@ -34,7 +34,7 @@ By transforming complex search queries used for **OSINT (Open Source Intelligenc
 This repository is the culmination of extensive academic research on the application of ANN and PLN in cybersecurity.
 
 ### Master’s Thesis
-* [**OSINT Approach with SOM and NLP for Automatic Execution of Dorks**](https://bibliotecatede.uninove.br/handle/tede/2586)
+* [OSINT Approach with SOM and NLP for Automatic Execution of Dorks](https://bibliotecatede.uninove.br/handle/tede/2586)
 
 ### Selected Papers
 * [Abordagem de OSINT com SOM e PLN para Execução Automática de Dorks](https://www.researchgate.net/publication/374868011_Abordagem_de_Inteligencia_de_Fontes_Abertas_com_Mapas_Auto-Organizaveis_De_Kohonen_e_Processamento_de_Linguagem_Natural_para_Execucao_Automatica_de_Dorks)
