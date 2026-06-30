@@ -1,5 +1,5 @@
 
-# DOSNLP: Dork Segmentation with Natural Language Processing
+# Dork Segmentation with Natural Language Processing
 
 [![License: Proprietary](https://img.shields.io/badge/License-Proprietary-red.svg)]() 
 [![Research-Oriented](https://img.shields.io/badge/Domain-OSINT%20%7C%20Cybersecurity-blue)]()
