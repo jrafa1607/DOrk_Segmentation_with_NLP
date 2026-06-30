@@ -9,7 +9,7 @@ By transforming complex search queries used for **OSINT (Open Source Intelligenc
 
 ---
 
-### 🚀 Key Capabilities
+#### 🚀 Key Capabilities
 * **Dork Segmentation**: Utilizes NLP to break down complex Dorks into logical components.
 * **Intelligent Vectorization**: Applies models to convert Dork into high-dimensional numerical vectors for ML applications.
 
@@ -32,15 +32,8 @@ By transforming complex search queries used for **OSINT (Open Source Intelligenc
 
 #### 🔒🛠️ Intellectual Property (IP) Protection ( License, Restrictions, and Copyright )
 
-**Legal Notice and Terms of Use**
+**Copyright © 2026 João Rafael Gonçalves Evangelista.**
 
-This repository contains the source code and documentation for **DOSNLP**, which constitutes the **Intellectual Property (IP)** of 
-João Rafael Gonçalves Evangelista. All rights reserved.
-
+All source code, documentation, and research methodologies contained in this repository are the exclusive Intellectual Property of the author. All rights reserved. Use of this content for academic or professional purposes must include proper citation and attribution to the original research.
 
 ---
-
-## ⚖️ Intellectual Property (IP) Notice
-> **Copyright © 2026 João Rafael Gonçalves Evangelista.**
->
-> All source code, documentation, and research methodologies contained in this repository are the exclusive Intellectual Property of the author. All rights reserved. Use of this content for academic or professional purposes must include proper citation and attribution to the original research.
