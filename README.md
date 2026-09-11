@@ -45,9 +45,9 @@ This repository is the culmination of extensive academic research on the applica
 
 ---
 
-### ⚖️ Intellectual Property (IP) Notice
+#### ⚖️ Intellectual Property (IP) Notice
 All source code, documentation, and research methodologies contained in this repository are the exclusive Intellectual Property of the author. All rights reserved. Use of this content for academic or professional purposes must include proper citation and attribution to the original research.
 
-**Copyright © 2026 João Rafael Gonçalves Evangelista.**
+**Copyright © 2026 João Rafael.**
 
 ---
